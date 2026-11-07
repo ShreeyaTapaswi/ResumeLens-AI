@@ -6,13 +6,13 @@
 
 Upload a resume → get structured data, an **ATS readiness score**, and a **job-description match** in seconds.
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Render-46E3B7?style=for-the-badge)](https://YOUR-APP.onrender.com)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Render-46E3B7?style=for-the-badge)](https://resumelens-ai-shreeya.onrender.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-3.x-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-NLP-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 
-[**Live Demo**](https://YOUR-APP.onrender.com) · [**Demo Video (MP4)**](docs/demo.mp4) · [**Report Bug**](https://github.com/ShreeyaTapaswi/ResumeLens-AI/issues)
+[**Live Demo**](https://resumelens-ai-shreeya.onrender.com/) · [**Demo Video (MP4)**](docs/demo.mp4) · [**Report Bug**](https://github.com/ShreeyaTapaswi/ResumeLens-AI/issues)
 
 <img src="docs/demo.gif" alt="ResumeLens AI demo" width="860"/>
 
